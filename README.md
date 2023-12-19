@@ -17,6 +17,6 @@ Sprint: Hold "Shift"
 Jump: "Space" 
 Inventory: “I” 
 Crafting: “C”
-Quick-Slots: “Number 1-7”
+Quick-Slots: “Number 1-7” s
 
 
